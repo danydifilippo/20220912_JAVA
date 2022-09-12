@@ -1,0 +1,32 @@
+
+body {
+    width: fit-content;
+}
+h1 {
+    text-transform: uppercase;
+    font-size: 3em;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+section {
+    background-image: url(../img/disegno_donna.jpeg);
+    background-repeat: no-repeat;
+    text-align: center;
+    width: 90em;
+    height: 90em;
+}
+p {
+    font-family: 'Noto Sans Balinese', sans-serif;
+    font-size: 2.5em;
+    line-height: 50px;
+    align-items: center;
+    padding: 4.3em;
+    padding-right: 7em;
+}
+
