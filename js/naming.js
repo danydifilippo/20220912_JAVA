@@ -17,9 +17,9 @@ var _pet2 = 'pantera';
 
 
 //---------input-----------
-var moodNow = prompt('Come ti senti in questo momento?');
-var wishNow = prompt('Cosa vorresti fare?');
-var obstacle_ = prompt('Cosa ti impedisce di farlo?');
+let moodNow = prompt('Come ti senti in questo momento?');
+let wishNow = prompt('Cosa vorresti fare?');
+let obstacle_ = prompt('Cosa ti impedisce di farlo?');
 
 
 //---------output-----------
